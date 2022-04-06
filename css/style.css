@@ -1,14 +1,11 @@
-@charset "UTF-8";
 html, body{
 	background-color: beige;
 	padding: 0% 7%;
-	position: center;
 }
 
 nav#list {
     margin: 0 auto;
     display: table;
-    position: center;
 }
 
 nav#list ul {
@@ -21,13 +18,11 @@ nav#list ul {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
     overflow: hidden;
-    position: center;
 }
 
 nav#list ul li {
     float: left;
     display: inline;
-    position: center;
 }
 
 nav#list ul li a{
@@ -37,14 +32,12 @@ nav#list ul li a{
     text-decoration: none;
     text-align: center;
     padding: 10px;
-    position: center;
 }
 
 nav#list ul li a:hover{
     background-color: turquoise;
     color: peachpuff;
     border-radius: 20px;
-    position: center;
 }
 
 
@@ -55,27 +48,3 @@ img{
     padding: 5px;
     width: 300px;
 }
-
-#mcd{
-     position: center;
-     width: 200px;
-     border-radius: 100px;
- }
-
-#pop{
-    position: center;
-    width: 200px;
-    border-radius: 100px;
- }
-
-#chi{
-    position: center;
-    width: 200px;
-    border-radius: 100px;
- }
-
-#kfc{
-    position: center;
-    width: 200px;
-    border-radius: 100px;
- }
