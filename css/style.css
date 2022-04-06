@@ -3,6 +3,7 @@ html, body{
     width: 77.5%;
 	background-color: beige;
 	padding: 0% 7%;
+	position: center;
 }
 
 nav#list {
