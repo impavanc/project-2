@@ -54,25 +54,25 @@ img{
 }
 
 #mcd{
-     position: relative;
+     position: center;
      width: 200px;
      border-radius: 100px;
  }
 
 #pop{
-    position: relative;
+    position: center;
     width: 200px;
     border-radius: 100px;
  }
 
 #chi{
-    position: relative;
+    position: center;
     width: 200px;
     border-radius: 100px;
  }
 
 #kfc{
-    position: relative;
+    position: center;
     width: 200px;
     border-radius: 100px;
  }
