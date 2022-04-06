@@ -22,11 +22,13 @@ nav#list ul {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
     overflow: hidden;
+    position: center;
 }
 
 nav#list ul li {
     float: left;
     display: inline;
+    position: center;
 }
 
 nav#list ul li a{
@@ -36,12 +38,14 @@ nav#list ul li a{
     text-decoration: none;
     text-align: center;
     padding: 10px;
+    position: center;
 }
 
 nav#list ul li a:hover{
     background-color: turquoise;
     color: peachpuff;
     border-radius: 20px;
+    position: center;
 }
 
 
