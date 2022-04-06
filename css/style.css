@@ -1,5 +1,6 @@
 @charset "UTF-8";
 html, body{
+    width: 77.5%;
 	background-color: beige;
 	padding: 0% 7%;
 }
