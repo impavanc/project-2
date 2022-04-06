@@ -1,6 +1,6 @@
 @charset "UTF-8";
 html, body{
-    width: 77.5%;
+    width: 99.5%%;
 	background-color: beige;
 	padding: 0% 7%;
 	position: center;
@@ -48,3 +48,35 @@ nav#list ul li a:hover{
     position: center;
 }
 
+
+
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+}
+
+#mcd{
+     position: center;
+     width: 200px;
+     border-radius: 100px;
+ }
+
+#pop{
+    position: center;
+    width: 200px;
+    border-radius: 100px;
+ }
+
+#chi{
+    position: center;
+    width: 200px;
+    border-radius: 100px;
+ }
+
+#kfc{
+    position: center;
+    width: 200px;
+    border-radius: 100px;
+ }
