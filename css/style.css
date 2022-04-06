@@ -9,6 +9,7 @@ html, body{
 nav#list {
     margin: 0 auto;
     display: table;
+    position: center;
 }
 
 nav#list ul {
