@@ -50,3 +50,27 @@ img{
     padding: 5px;
     width: 300px;
 }
+
+#mcd{
+     position: relative;
+     width: 200px;
+     border-radius: 100px;
+ }
+
+#pop{
+    position: relative;
+    width: 200px;
+    border-radius: 100px;
+ }
+
+#chi{
+    position: relative;
+    width: 200px;
+    border-radius: 100px;
+ }
+
+#kfc{
+    position: relative;
+    width: 200px;
+    border-radius: 100px;
+ }
